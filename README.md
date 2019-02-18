@@ -8,6 +8,17 @@ I use MFCC and etc features for this task, u can see [feature_extraction.py](htt
 ## Run
 read [libs.txt](https://github.com/elyas74/nlp-gender-recognition/blob/master/libs.txt) file, and install tensorflow and keras too.
 
+##
+# librosa
+pip install librosa
+
+# matplotlib
+sudo apt install python-matplotlib
+
+# ipython
+sudo apt install ipython ipython-notebook
+
+
 for running with my train and test extracted features :
 ```
 python train.py
